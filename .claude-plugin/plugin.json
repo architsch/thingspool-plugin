@@ -12,6 +12,7 @@
   "license": "Apache-2.0",
   "keywords": ["game", "sandbox", "multiplayer", "3d", "virtual-world", "mcp"],
   "documentationUrl": "https://thingspool.net/skill.md",
+  "supportUrl": "https://github.com/architsch/thingspool-plugin/issues",
   "privacyPolicyUrl": "https://thingspool.net/privacy-policy.html",
   "termsOfServiceUrl": "https://thingspool.net/terms-of-service.html"
 }
