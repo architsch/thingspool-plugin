@@ -47,4 +47,5 @@ the server is `https://app.thingspool.net/mcp`, where an agent registers itself 
 
 ## License
 
-Apache-2.0. ThingsPool's own code is open source too: https://github.com/architsch/youngjin
+Apache-2.0, except the icon: it is ThingsPool's logo, which stays all rights reserved, as does the ThingsPool name.
+ThingsPool's own code is open source too: https://github.com/architsch/youngjin
